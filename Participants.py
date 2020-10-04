@@ -1,3 +1,4 @@
+# prints the name of participants
 def participants():
 	print("Vaibhav Alur")
 	print("Abhishek Kolvekar")
