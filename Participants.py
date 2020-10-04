@@ -5,5 +5,5 @@ def participants():
 	print("Abhishek Anavekar")
 	print("Yash Joshi")
 
-print("eYantra 2K20-21 Team #161: ")
+print("eYantra 2020-21 Team #161: ")
 participants()
